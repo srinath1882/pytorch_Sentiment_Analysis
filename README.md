@@ -12,3 +12,5 @@ Implementation changes from above Notebook
 3. Trained on the text that is reversed (for example "my name is Rohan" becomes "Rohan is name my")
 
 4. Achieves 87% or more accuracy
+
+Colab Link [here](https://colab.research.google.com/drive/1_dI0y4nay0Zeskn3BWW8WNMor6bgMSOW?authuser=1#scrollTo=uqiIKOM57BHl)
